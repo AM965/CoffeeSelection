@@ -1,0 +1,33 @@
+
+.general{
+        text-align:center;
+        font-family:"Arial";
+        color:#0000FF;
+        background-color:#FFFFFF;
+	padding-top:200px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+.basic{ 
+        font-family:"Times New Roman";
+        color: #FF0000;
+}
+
+.submission{
+        font-size: 2em;
+        color: #444;
+}
+
+hr{
+        color:#242424;
+}
+
+.submitColor{
+        background-color: #FF0000;
+}
+
+.backCase{
+        font-size: 0.9em;
+        text-align: center;
+}
